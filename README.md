@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya.M</h1>
+<h1 align="center">Hi 🙋‍♂️, I'm Aditya.M</h1>
 <h3 align="center">A passionate Computer Science Engineer from Bengaluru ,Karnataka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagowda2000&label=Profile%20views&color=0e75b6&style=flat" alt="adityagowda2000" /> </p>
